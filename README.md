@@ -30,13 +30,13 @@ This project is a machine learning-powered web application that identifies bird 
 
 ## 📂 Directory Structure
 
-|bird_species_identification /
-├── app.py # Main application file
-├──bird-species-identification.ipynb #kaggle notebook where model get trained
-├── classes.txt # List of bird classes
-├── model_densenet121.pth # Trained PyTorch model
-├── .env # Environment variables file
-├── requirements.txt # Python dependencies
+|bird_species_identification /  
+├── app.py # Main application file  
+├──bird-species-identification.ipynb #kaggle notebook where model get trained  
+├── classes.txt # List of bird classes  
+├── model_densenet121.pth # Trained PyTorch model  
+├── .env # Environment variables file  
+├── requirements.txt # Python dependencies  
 └── README.md # Project documentation
 
 ## 🔧 Installation and Setup
@@ -100,7 +100,3 @@ LinkedIn: https://www.linkedin.com/in/devang-gawade-a82074262/
 ---
 
 ## 🎉 Happy Coding and Bird Watching! 🐦✨
-
-```
-
-```
