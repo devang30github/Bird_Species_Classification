@@ -93,8 +93,8 @@ Open pull requests with improvements
 
 For queries or suggestions, contact:
 
-Name: Devang Gawade
-Email: gawadedevang@gmail.com
+Name: Devang Gawade  
+Email: gawadedevang@gmail.com  
 LinkedIn: https://www.linkedin.com/in/devang-gawade-a82074262/
 
 ---
