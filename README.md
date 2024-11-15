@@ -68,24 +68,39 @@ Replace your_groq_api_key with your actual API key for the LangChain Groq API.
 Start the Streamlit app:
 streamlit run app.py
 Open the URL provided in the terminal (default: http://localhost:8501) to access the app.
+```
 
-📝 Key Notes
+---
+
+## 📝 Key Notes
+
 Model Weights: The app uses a trained DenseNet121 model (model_densenet121.pth). Ensure this file is in the project root directory.
 Classes File: The classes.txt file contains bird class mappings.
 LLM Integration: The app integrates the Groq API to fetch fun facts. Ensure your .env file is correctly configured.
-🤝 Contributing
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
 Fork this repository
 Submit issues or feature requests
 Open pull requests with improvements
 
+---
 
-💬 Contact
+## 💬 Contact
+
 For queries or suggestions, contact:
 
 Name: Devang Gawade
 Email: gawadedevang@gmail.com
 LinkedIn: https://www.linkedin.com/in/devang-gawade-a82074262/
-🎉 Happy Coding and Bird Watching! 🐦✨
+
+---
+
+## 🎉 Happy Coding and Bird Watching! 🐦✨
+
+```
+
 ```
