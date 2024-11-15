@@ -1,0 +1,10 @@
+myenv/
+.env
+__pycache__/
+
+# Ignore IDE-specific files (for example, for VSCode)
+.vscode/
+
+# Ignore system files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
