@@ -43,9 +43,7 @@ This project is a machine learning-powered web application that identifies bird 
 
 Follow these steps to set up and run the project:
 
-### 1️⃣ Clone the Repository
-
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/devang30github/bird-species-identification.git
 cd bird-species-identification
 
@@ -81,7 +79,6 @@ Fork this repository
 Submit issues or feature requests
 Open pull requests with improvements
 
-
 💬 Contact
 For queries or suggestions, contact:
 
@@ -89,4 +86,7 @@ Name: Devang Gawade
 Email: gawadedevang@gmail.com
 LinkedIn: https://www.linkedin.com/in/devang-gawade-a82074262/
 🎉 Happy Coding and Bird Watching! 🐦✨
+
+```
+
 ```
